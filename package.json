@@ -23,7 +23,7 @@
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",
     "babel-loader": "^8.1.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-zoom": "^0.7.5",
     "css-loader": "^3.5.2",
     "html-webpack-plugin": "^4.2.0",
